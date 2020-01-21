@@ -17,6 +17,7 @@ import org.junit.Assert.*
 class ExampleInstrumentedTest {
     @Test
 	//commit na master
+	// commit feature 2
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
